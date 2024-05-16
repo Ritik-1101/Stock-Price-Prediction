@@ -8,8 +8,7 @@ This Jupyter Notebook contains code to predict stock prices using various machin
 2. [Usage](#usage)
 3. [Notebook Structure](#notebook-structure)
 4. [Models Used](#models-used)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Installation
 

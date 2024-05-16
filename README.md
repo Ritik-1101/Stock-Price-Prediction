@@ -9,7 +9,6 @@ This Jupyter Notebook contains code to predict stock prices using various machin
 3. [Notebook Structure](#notebook-structure)
 4. [Models Used](#models-used)
 
-
 ## Installation
 
 To run this notebook, you need to have Python and Jupyter Notebook installed. You can install the necessary packages using the following command:
@@ -28,7 +27,7 @@ pip install pandas numpy matplotlib plotly scikit-learn
 ### Imports: Import necessary libraries.
 
 
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
